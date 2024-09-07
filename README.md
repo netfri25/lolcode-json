@@ -1,2 +1,2 @@
 # lolcode-json
-simple Json parser written in LOLCODE
+WARNING: this is WIP
